@@ -1,8 +1,8 @@
 # Deepfake Audio Detection
 
-This project contains three Jupyter notebooks with three machine learning models and their latest results. To replicate these results you will need to first download the [ASVspoof 2019 Logical Access (LA) Dataset](https://www.kaggle.com/datasets/awsaf49/asvpoof-2019-dataset) and ensure the first cell in these notebooks are updated to match the structure of the dataset after download.
+This project contains multiple Jupyter notebooks containing machine learning models and their latest results. To replicate these results you will need to download the [ASVspoof 2019 Logical Access (LA) Dataset](https://www.kaggle.com/datasets/awsaf49/asvpoof-2019-dataset) and ensure the first cells in these notebooks are updated to match your folder structure.
 
-Results are included in the notebooks, so they will not need to be run to analyze the findings.
+Results are included in the notebooks, so they do not need to be run to analyze the findings.
 
 ## Notebooks
 
