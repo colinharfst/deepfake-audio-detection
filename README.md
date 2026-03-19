@@ -8,4 +8,4 @@ Results are included in the notebooks, so they do not need to be run to analyze 
 
 - `project-baseline-svm-model.ipynb` – A baseline classical machine learning model to detect bonafide vs. spoof speech
 - `project-baseline-cnn-model.ipynb.ipynb` – A baseline deep learning model to detect bonafide vs. spoof speech
-- `project-mod-baseline-cnn-model.ipynb` – A modified deep learning model to detect bonafide vs. spoof speech (**Best Performing CNN**) 
+- `project-mod-baseline-cnn-model.ipynb` – **Best Performing CNN** - A modified deep learning model to detect bonafide vs. spoof speech
